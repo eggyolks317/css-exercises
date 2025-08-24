@@ -17,11 +17,13 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+
 .section1 , .section2 {
   display: flex;
   gap: 16px;
   align-items: center;
 }
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
